@@ -272,9 +272,3 @@ def get_model_for_problem_formulation(problem_formulation_id):
         
     return dike_model, function.planning_steps
 
-
-
-
-## TODO: function is hopefuly ok, now change levers/uncertianties (where do they get steps from?) and PFs
-
-
